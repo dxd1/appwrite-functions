@@ -1,6 +1,5 @@
 from appwrite.client import Client
 from appwrite.services.account import Account
-import os
 import json
 
 
